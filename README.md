@@ -2,35 +2,35 @@
 
 This is my future ready talent project. Azure link:https://interiorhome.z29.web.core.windows.net/
 
-Project Statement:
+# Project Statement:
 
 An interior design concept statement is the essence of an interior design proposal and a complement to the design itself.
 
-Project Description:
+# Project Description:
 
 An interior design project comprises a set of phases that gradually define the distribution, pieces, finishes that translate into a budget for its construction and production to the smallest detail.
 
 Interior designers make interior spaces functional, safe, and beautiful for almost every type of building. Interior designers make indoor spaces functional, safe, and beautiful by determining space requirements and selecting essential and decorative items, such as colors, lighting, and materials.
 
 
-Azure Technologies used :
+# Azure Technologies used :
 1.Static Web Apps(for deployment of the website).
 
 2.Azure Storage Accounts.
 
 3.Container
 
-Web Technologies used :
+# Web Technologies used :
 1.HTML
 
 2.CSS
 
 3.JavaScript
 
-IDE Used :
+# IDE Used :
 Vs code
 
-Steps followed While Deploying :
+# Steps followed While Deploying :
 1.Firstly I built the complete project using visual studio code,then tested it on the live server extension's.
 
 2.After that I have installed the git on my system.
